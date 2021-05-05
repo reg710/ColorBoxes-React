@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Color Boxes
+React assignment for Academy Pittsburgh - inspired by page made by Jennifer Dewalt - https://jenniferdewalt.com/technicolor_boxes.html.
+
+Page loads to dark gray screen and by hovering mouse you will see boxes appear with randomized colors.
+
+![Image of Color Boxes]
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
