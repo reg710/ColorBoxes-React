@@ -3,7 +3,7 @@ React assignment for Academy Pittsburgh - inspired by page made by Jennifer Dewa
 
 Page loads to dark gray screen and by hovering mouse you will see boxes appear with randomized colors.
 
-![Image of Color Boxes]
+![Image of Color Boxes](https://github.com/reg710/color-boxes-react/blob/main/react-colorboxes.png)
 
 ## Getting Started with Create React App
 
